@@ -54,7 +54,7 @@ To get segment-based and event-based metrics saved in YAML-format, run:
 
 """
 
-
+from __future__ import print_function, absolute_import
 import sys
 import os
 import argparse
