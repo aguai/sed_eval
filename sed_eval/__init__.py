@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Top-level module for sed_eval"""
 
 # Import all submodules

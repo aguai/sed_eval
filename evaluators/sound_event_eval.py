@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Evaluator for computing all sound event detection related metrics.
 

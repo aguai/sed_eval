@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Evaluator for computing all acoustic scene classification related metrics.
 
