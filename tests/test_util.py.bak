@@ -2,7 +2,7 @@
 Unit tests for utils
 '''
 
-
+from __future__ import print_function, absolute_import
 import numpy
 import nose.tools
 import sed_eval
